@@ -36,3 +36,30 @@
     transform: rotate(360deg);
   }
 }
+
+
+.site-card-border-less-wrapper {
+
+}
+.dashboard-div{
+  background: #ececec;
+  width: 100%;
+}
+
+.header-item{
+  display: flex;
+  justify-content: space-between;
+  margin-top: auto;
+  margin-bottom: auto;
+  text-align: center;
+  padding:12px 0px;
+}
+.right-dashboard-header{
+  display: flex;
+}
+.header-name{
+  font-size: 14px;
+}
+.dashboard-welcome-card{
+  padding:3% 5%;
+}

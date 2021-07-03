@@ -7,8 +7,6 @@ import line from '../../assets/images/Line.png';
 import { Row, Col } from 'antd';
 import { Form, Button } from "react-bootstrap";
 
-
-
 const Login = () => {
     return (
         <div>

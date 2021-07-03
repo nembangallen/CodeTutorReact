@@ -8,6 +8,7 @@ import {
 import './App.css';
 import Login from "./screen/Login";
 import "antd/dist/antd.css";
+import Dashboard from "./screen/Dashboard";
 
 
 const App = () => {
@@ -15,7 +16,7 @@ const App = () => {
     <div>
     <Router>
       <Switch>
-        <Login />
+        <Dashboard/>
       </Switch>
     </Router>
     </div>
