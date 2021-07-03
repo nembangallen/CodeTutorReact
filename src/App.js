@@ -7,6 +7,8 @@ import {
 } from "react-router-dom";
 import './App.css';
 import Login from "./screen/Login";
+import "antd/dist/antd.css";
+
 
 const App = () => {
   return (
